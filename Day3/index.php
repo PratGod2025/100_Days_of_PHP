@@ -11,4 +11,5 @@ $address = 'Lalitpur, Nepal';
  ('PI', 3.14); //Here PI is a constant
 
  echo "My name is" $name "and my age is" $age "And i live in" $address;
+ // Output: My name is Pratyush and my age is 19 And i live in Lalitpur, Nepal
                          

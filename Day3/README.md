@@ -13,6 +13,6 @@ Today I learned about variables and their use , :
 6. Learned to add constants and variables ( in index.php)
 7. Learned how to add echo in a <div> class of html
  
-Tommorow target : Learning about strings in php 
+Tommorow target : Learning about strings in php. 
 
 Resources for today --> https://www.youtube.com/watch?v=2CXme275t9k
