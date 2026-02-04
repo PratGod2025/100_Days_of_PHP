@@ -1,4 +1,4 @@
-    DAY 3: BRAIN
+    DAY 4: BRAIN
 
 Today I learned about strings and how to use them in PHP  :
 
