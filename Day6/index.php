@@ -33,7 +33,7 @@ echo count($fruits); // Output: 5
 //to merge two arrays
 $vegetables = ["Carrot", "Broccoli"];
 $food = array_merge($fruits, $vegetables);
-print_r($food); // Output: Array ( [0] => Apple [1] =>  
+print_r($food); // Output: Array ( [0] => Apple [1] => Mango [2] => Cherry [3] => Orange [4] => Grapes [5] => Carrot [6] => Broccoli )  
 
 ?>
 
