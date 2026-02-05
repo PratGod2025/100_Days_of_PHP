@@ -21,6 +21,8 @@ Today I learned about indexed arrays and their implementation in PHP  :
 9. Today Learned about some functions;
                                 array_push(Variable_name, value to be pushed); → pushes the newest value into the last position
                                 array_merge(first array, second array); → it merges array
+                                echo count(variable_name) -> counts number of elements in array
+                                
                             
 10. how to add new value to an array -—> just put value_name[blank] = new_value
 Tommorow target : Learning about Associative and multi-dimensional arrays.
